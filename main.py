@@ -1,5 +1,4 @@
 import time
 
-while True:
-    time.sleep(1)
-    print('Hallo GIT')
+print('Hallo GIT')
+    
