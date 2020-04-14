@@ -1,7 +1,10 @@
 import time
 
-print('Start')
+print('main')
+print('Startup')
 
 while True:
+    print('1234')
     time.sleep(2)
-    print('Hallo GIT')
+print('Hallaaaaaa GIT')
+print('Done')
