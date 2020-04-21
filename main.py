@@ -1,3 +1,5 @@
+# $Date$
+
 import time
 
 print('main')
